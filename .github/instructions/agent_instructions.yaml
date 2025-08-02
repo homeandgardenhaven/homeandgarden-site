@@ -1,0 +1,99 @@
+# agent_instructions.yaml
+
+# -------------------------------------------------------------------
+# AGENT COORDINATION CONFIG FOR homeandgardenhaven.com
+# -------------------------------------------------------------------
+# Purpose: Central configuration for automation agents
+#          including MCP server usage, GitHub auth, content policies
+# -------------------------------------------------------------------
+
+project_name: "homeandgardenhaven.com"
+
+# === AGENT CONTROL SETTINGS ===
+agents:
+  default:
+    use_mcp_server: true
+    mcp_server_id: "hugo-mcp"
+    working_directory: "/ABSOLUTE/PATH/TO/PARENT/FOLDER/hugo-mcp"
+    entrypoint: "main.py"
+    execution: "uv run main.py"
+
+# === VERSION CONTROL ===
+git:
+  github_user: "homeandgardenhaven"
+  repo: "homeandgarden-site"
+  branch: "main"
+  commit_strategy: "automated"
+  push_behavior: "auto"
+  identity_control:
+    author_name: "Home & Garden Bot"
+    author_email: "bot@homeandgardenhaven.com"
+
+# === AUTOMATION POLICIES ===
+automation:
+  enable_ci_hooks: true
+  auto_generate_posts: true
+  auto_push_content: true
+  format_check: true
+  image_optimization: true
+  seo_check: true
+
+# === CONTENT CREATION RULES ===
+content:
+  guidelines:
+    article_types:
+      - "DIY Gardening Projects"
+      - "Indoor Plant Guides"
+      - "Seasonal Home Decor Ideas"
+      - "Composting and Sustainability Tips"
+      - "Landscaping Techniques"
+    writing_style: "Conversational but informative, 8th–10th grade reading level."
+    word_count_range:
+      min: 600
+      max: 1500
+    include_featured_image: true
+    include_metadata: true
+    slugify_title: true
+  images:
+    sourcing:
+      preferred_sources:
+        - "Unsplash (API or manually curated)"
+        - "Pexels"
+        - "Pixabay"
+      usage_restrictions:
+        commercial_use_only: true
+        license_type: "Free for commercial use"
+        attribution_required: true
+        notes: "Always check source license. Do not use images without explicit permission or that require payment or non-commercial restrictions."
+    licensing: "Ensure all images are free for commercial use and attribution is provided when required."
+    optimization:
+      resize: true
+      max_width: 1200
+      compress: true
+    seo:
+      include_alt_text: true
+      include_descriptive_captions: true
+      alt_text_style: "Describe content and purpose of the image using relevant keywords."
+      caption_style: "One sentence summary using target search terms where natural."
+    image_api:
+      enabled: true
+      provider_priority:
+        - unsplash
+        - pexels
+        - pixabay
+      keys:
+        unsplash: "YOUR_UNSPLASH_API_KEY"
+        pexels: "YOUR_PEXELS_API_KEY"
+        pixabay: "YOUR_PIXABAY_API_KEY"
+      defaults:
+        orientation: "landscape"
+        per_page: 1
+        fallback_terms:
+          - "gardening"
+          - "outdoor plants"
+          - "home decor"
+
+# === FUTURE EXTENSIONS ===
+notes:
+  - This config will likely expand to define scraping sources, outline prompts, and integrate analytics collection.
+  - May define separate YAML for long-form editorial rules if agent complexity increases.
