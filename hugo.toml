@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Home Garden Website'
+theme = 'newsroom'
+author = 'Garden Enthusiast'
+canonifyurls = true
+
+[pagination]
+disableAliases = false
+pagerSize = 10
+path = 'page'
+
+[permalinks]
+pages = ':contentbasename/'
+
+[params]
+logo = ""
+faviconsDir = "images/icons/"
+blogDir = "posts"
