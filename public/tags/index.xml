@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Home Garden Website</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/homeandgarden-site/tags/</link>
     <description>Recent content in Tags on Home Garden Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jul 2024 09:15:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/homeandgarden-site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Companion-Planting</title>
-      <link>http://localhost:1313/tags/companion-planting/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/companion-planting/</link>
       <pubDate>Thu, 25 Jul 2024 09:15:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/companion-planting/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/companion-planting/</guid>
       <description></description>
     </item>
     <item>
       <title>Garden-Planning</title>
-      <link>http://localhost:1313/tags/garden-planning/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/garden-planning/</link>
       <pubDate>Thu, 25 Jul 2024 09:15:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/garden-planning/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/garden-planning/</guid>
       <description></description>
     </item>
     <item>
       <title>Organic-Gardening</title>
-      <link>http://localhost:1313/tags/organic-gardening/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/organic-gardening/</link>
       <pubDate>Thu, 25 Jul 2024 09:15:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/organic-gardening/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/organic-gardening/</guid>
       <description></description>
     </item>
     <item>
       <title>Cooking</title>
-      <link>http://localhost:1313/tags/cooking/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/cooking/</link>
       <pubDate>Sat, 20 Jul 2024 14:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cooking/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/cooking/</guid>
       <description></description>
     </item>
     <item>
       <title>Herbs</title>
-      <link>http://localhost:1313/tags/herbs/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/herbs/</link>
       <pubDate>Sat, 20 Jul 2024 14:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/herbs/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/herbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Indoor-Gardening</title>
-      <link>http://localhost:1313/tags/indoor-gardening/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/indoor-gardening/</link>
       <pubDate>Sat, 20 Jul 2024 14:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/indoor-gardening/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/indoor-gardening/</guid>
       <description></description>
     </item>
     <item>
       <title>Beginner</title>
-      <link>http://localhost:1313/tags/beginner/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/beginner/</link>
       <pubDate>Mon, 15 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/beginner/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/beginner/</guid>
       <description></description>
     </item>
     <item>
       <title>Gardening-Basics</title>
-      <link>http://localhost:1313/tags/gardening-basics/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/gardening-basics/</link>
       <pubDate>Mon, 15 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gardening-basics/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/gardening-basics/</guid>
       <description></description>
     </item>
     <item>
       <title>Vegetables</title>
-      <link>http://localhost:1313/tags/vegetables/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/vegetables/</link>
       <pubDate>Mon, 15 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/vegetables/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/vegetables/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>http://localhost:1313/tags/emoji/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/emoji/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/emoji/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>http://localhost:1313/tags/development/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/development/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>http://localhost:1313/tags/go/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/go/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>http://localhost:1313/tags/golang/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/golang/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Templates</title>
-      <link>http://localhost:1313/tags/templates/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/templates/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/templates/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>http://localhost:1313/tags/themes/</link>
+      <link>http://localhost:1313/homeandgarden-site/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/themes/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/tags/themes/</guid>
       <description></description>
     </item>
   </channel>

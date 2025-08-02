@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Home Garden Website</title>
-    <link>http://localhost:1313/pages/</link>
+    <link>http://localhost:1313/homeandgarden-site/pages/</link>
     <description>Recent content in Pages on Home Garden Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/homeandgarden-site/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Home Garden Paradise</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/homeandgarden-site/about/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/homeandgarden-site/about/</guid>
       <description>&lt;p&gt;Welcome to Home Garden Paradise, your comprehensive resource for all things gardening! Whether you&amp;rsquo;re dreaming of your first tomato plant or planning an elaborate landscape, we&amp;rsquo;re here to help you grow.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;We believe that everyone can and should experience the joy of growing their own plants. Gardening connects us to nature, provides fresh healthy food, and creates beautiful spaces that nourish both body and soul.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-youll-find-here&#34;&gt;What You&amp;rsquo;ll Find Here&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Beginner-friendly guides&lt;/strong&gt; to get you started with confidence&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seasonal gardening tips&lt;/strong&gt; to help you year-round&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Problem-solving advice&lt;/strong&gt; for common garden challenges&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Plant profiles&lt;/strong&gt; with growing requirements and care tips&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sustainable practices&lt;/strong&gt; for eco-friendly gardening&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;our-approach&#34;&gt;Our Approach&lt;/h2&gt;&#xA;&lt;p&gt;We focus on:&lt;/p&gt;</description>
     </item>
   </channel>
