@@ -1,5 +1,5 @@
 ---
-title: "Natural Pest Control for- **Try companion planting**—for example, marigolds deter nematodes and aphids, while basil can help repel tomato hornworms. See our [companion planting]({{< ref "companion-planting.md" >}}) article for more ideas.Summer Gardens"
+title: "Natural Pest Control for Summer Gardens"
 description: "Protect your summer garden from pests using organic and natural methods. Learn to identify common bugs and keep your vegetables safe without chemicals."
 keywords: ["natural pest control", "summer garden pests", "organic pest solutions", "keep bugs off vegetables"]
 date: 2025-08-02
