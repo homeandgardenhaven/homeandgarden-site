@@ -28,8 +28,9 @@ Thumbs.db
 *.swo
 *~
 
-# GitHub and development workflows
-.github/
+# GitHub and development workflows (excluding deployment workflow)
+.github/chatmodes/
+.github/instructions/
 
 # Logs
 *.log
