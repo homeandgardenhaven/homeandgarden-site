@@ -4,11 +4,13 @@ description: "Expert tips for maintaining a lush, green lawn during the summer. 
 keywords: ["summer lawn care", "keep grass green in summer", "lawn watering tips", "summer fertilizer"]
 date: 2025-08-02
 slug: "summer-lawn-care"
+image: "https://images.unsplash.com/photo-1584291468470-a2c1a05c0bce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGxhd24lMjBzcHJpbmtsZXIlMjBzdW1tZXJ8ZW58MHwwfHx8MTc1NDE2NTgzNHww&ixlib=rb-4.1.0&q=80&w=1080&w=1200"
 ---
 
-# Summer Lawn Care: Keep Your Grass Green
 
-![Green lawn with sprinkler in summer sun](/images/summer-lawn-green.jpg)
+![Green lawn with sprinkler in summer sun](https://images.unsplash.com/photo-1584291468470-a2c1a05c0bce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGxhd24lMjBzcHJpbmtsZXIlMjBzdW1tZXJ8ZW58MHwwfHx8MTc1NDE2NTgzNHww&ixlib=rb-4.1.0&q=80&w=1080&w=1200)
+
+<sub>Photo by [Jordan Hopkins](https://unsplash.com/@jhopkinswriting) on [Unsplash](https://unsplash.com/photos/green-and-black-plastic-toy-on-green-plastic-container-78CSKXe1xpg)</sub>
 
 A beautiful lawn is possible even in the heat of summer. Here’s how to keep your grass healthy:
 
@@ -31,4 +33,4 @@ A beautiful lawn is possible even in the heat of summer. Here’s how to keep yo
 ## Resources
 - [r/lawncare](https://www.reddit.com/r/lawncare/)
 
-*Need shade? See our [DIY shade solutions for gardens and patios](/diy-shade-solutions/).*
+*Need shade? See our [DIY shade solutions for gardens and patios]({{< ref "diy-shade-solutions.md" >}}).*

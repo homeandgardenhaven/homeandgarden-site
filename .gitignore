@@ -6,6 +6,12 @@ resources/
 # Local development tools
 hugo-mcp/
 
+# Security - API keys and secrets
+.env
+.env.local
+*.key
+secrets/
+
 # OS generated files
 .DS_Store
 .DS_Store?
@@ -21,6 +27,9 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# GitHub and development workflows
+.github/
 
 # Logs
 *.log

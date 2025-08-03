@@ -1,5 +1,5 @@
 +++
-title = "Home Garden Paradise"
+title = "Home and Garden Haven"
 date = 2024-08-01T00:52:59+03:00
 +++
 

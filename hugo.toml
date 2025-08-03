@@ -4,6 +4,7 @@ title = 'Home Garden Website'
 theme = 'newsroom'
 author = 'Garden Enthusiast'
 canonifyurls = true
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [pagination]
 disableAliases = false
@@ -17,3 +18,8 @@ pages = ':contentbasename/'
 logo = ""
 faviconsDir = "images/icons/"
 blogDir = "posts"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
