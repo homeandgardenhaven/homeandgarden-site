@@ -4,14 +4,9 @@ description: "Protect your plants and outdoor spaces from harsh summer sun with 
 keywords: ["garden shade ideas", "DIY patio shade", "protect plants from sun", "summer shade solutions"]
 date: 2025-08-02
 slug: "diy-shade-solutions"
-image: "https://images.unsplash.com/photo-1752510848299-5d3413eedfb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxnYXJkZW4lMjBwZXJnb2xhJTIwc2hhZGUlMjBwbGFudHN8ZW58MHwwfHx8MTc1NDE2NTgzNXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200"
+hero: "https://images.unsplash.com/photo-1752510848299-5d3413eedfb2?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxnYXJkZW4lMjBwZXJnb2xhJTIwc2hhZGUlMjBwbGFudHN8ZW58MHwwfHx8MTc1NDE2NTgzNXww&ixlib=rb-4.1.0&q=80&w=1200"
+hero_alt: "Garden pergola providing shade over outdoor seating area with plants"
 ---
-
-
-![Pergola with climbing plants providing shade](https://images.unsplash.com/photo-1752510848299-5d3413eedfb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxnYXJkZW4lMjBwZXJnb2xhJTIwc2hhZGUlMjBwbGFudHN8ZW58MHwwfHx8MTc1NDE2NTgzNXww&ixlib=rb-4.1.0&q=80&w=1080&w=1200)
-
-<sub>Photo by [Ries Bosch](https://unsplash.com/@ries_bosch) on [Unsplash](https://unsplash.com/photos/a-beautiful-garden-arbor-with-flowers-and-benches-4KkTFccuZ0M)</sub>
-
 
 <span class="emoji">🏖️</span> Too much sun can stress plants and make outdoor spaces uncomfortable for people and pets alike. Luckily, there are plenty of creative, affordable ways to add shade to your garden or patio—making your outdoor spaces more enjoyable and your plants healthier.
 

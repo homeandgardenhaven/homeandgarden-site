@@ -4,8 +4,11 @@ description: "Protect your summer garden from pests using organic and natural me
 keywords: ["natural pest control", "summer garden pests", "organic pest solutions", "keep bugs off vegetables"]
 date: 2025-08-02
 slug: "natural-pest-control-summer"
-image: "https://images.unsplash.com/photo-1607532671279-42d1dc70e128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxsYWR5YnVnJTIwZ3JlZW4lMjBsZWFmJTIwbWFjcm98ZW58MHwwfHx8MTc1NDE2NTgzM3ww&ixlib=rb-4.1.0&q=80&w=1080&w=1200"
+hero: "https://images.unsplash.com/photo-1607532671279-42d1dc70e128?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxsYWR5YnVnJTIwZ3JlZW4lMjBsZWFmJTIwbWFjcm98ZW58MHwwfHx8MTc1NDE2NTgzM3ww&ixlib=rb-4.1.0&q=80&w=1200"
+hero_alt: "Ladybug on a green leaf demonstrating natural pest control in the garden"
 ---
+
+<span class="emoji">🐞</span> Summer brings a surge of garden pests, but you don't have to reach for harsh chemicals to protect your plants. With a little knowledge and some natural strategies, you can keep your garden thriving and your harvests healthy. Here's how to keep pests at bay—naturally!
 
 
 ![Ladybug on a green leaf](https://images.unsplash.com/photo-1607532671279-42d1dc70e128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxsYWR5YnVnJTIwZ3JlZW4lMjBsZWFmJTIwbWFjcm98ZW58MHwwfHx8MTc1NDE2NTgzM3ww&ixlib=rb-4.1.0&q=80&w=1080&w=1200)

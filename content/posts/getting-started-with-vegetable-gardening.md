@@ -1,9 +1,14 @@
-+++
-title = "Getting Started with Vegetable Gardening"
-date = 2024-07-15T10:00:00+00:00
-tags = ["vegetables", "beginner", "gardening-basics"]
-categories = ["Beginner Guides"]
-+++
+---
+title: "Getting Started with Vegetable Gardening"
+description: "Begin your vegetable gardening journey with this comprehensive beginner's guide. Learn about planning, tools, plant selection, and essential tips for success."
+keywords: ["vegetable gardening for beginners", "how to start a garden", "beginner gardening tips", "growing vegetables"]
+date: 2024-07-15T10:00:00+00:00
+slug: "getting-started-with-vegetable-gardening"
+tags: ["vegetables", "beginner", "gardening-basics"]
+categories: ["Beginner Guides"]
+hero: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHx2ZWdldGFibGUlMjBnYXJkZW4lMjByYWlzZWQlMjBiZWRzfGVufDB8MHx8fDE3NTQxNjU4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1200"
+hero_alt: "Raised vegetable garden beds with various vegetables growing in organized rows"
+---
 
 Starting a vegetable garden can be one of the most rewarding hobbies you'll ever pick up. Not only will you enjoy fresh, homegrown produce, but you'll also connect with nature and get some great exercise in the process.
 

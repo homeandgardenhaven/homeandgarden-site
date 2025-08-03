@@ -6,13 +6,7 @@ date: 2025-08-02
 slug: "watering-tips-hot-weather"
 ---
 
-
-
-![Watering can in a sunlit garden](https://images.unsplash.com/photo-1598511506218-6d74c23c862f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHx3YXRlcmluZyUyMGNhbiUyMGdhcmRlbiUyMHN1bW1lcnxlbnwwfDB8fHwxNzU0MTY1ODMzfDA&ixlib=rb-4.1.0&q=80&w=1080&w=1200)
-
-<sub>Photo by [Egor Myznik](https://unsplash.com/@vonshnauzer) on [Unsplash](https://unsplash.com/photos/green-watering-can-on-gray-concrete-floor-Wk3m3AzV4Cc)</sub>
-
-Summer heat can turn even the most lush garden into a thirsty landscape. Plants lose water quickly through their leaves, and soil can dry out in a matter of hours. But with a few smart strategies, you can keep your garden thriving and resilient—even during a drought or heatwave. Let’s dive into the details that make every drop count.
+Summer heat can turn even the most lush garden into a thirsty landscape. Plants lose water quickly through their leaves, and soil can dry out in a matter of hours. But with a few smart strategies, you can keep your garden thriving and resilient—even during a drought or heatwave. Let's dive into the details that make every drop count.
 
 ## When to Water
 

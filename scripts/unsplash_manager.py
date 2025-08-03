@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Unsplash API Integration for Home Garden Website
+Unsplash API Integration for Home and Garden Haven
 Automatically downloads and optimizes images for blog posts
 """
 

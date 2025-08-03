@@ -1,7 +1,7 @@
 #!/bin/bash
 # Setup script for Unsplash API integration using uv and secure storage
 
-echo "🌱 Setting up Unsplash API integration for Home Garden Website"
+echo "🌱 Setting up Unsplash API integration for Home and Garden Haven"
 
 # Check if uv is available
 if ! command -v uv &> /dev/null; then

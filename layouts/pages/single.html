@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <div class="wrap mt post">
+    <div>
+      <h1 class="post_title">{{ .Title }}</h1>
+      <div class="post_body">
+        <div class="post_inner">
+          {{ $image := partial "func/getImage" . }}
+          {{ with (or .Params.image .Params.hero) }}
+            <img src="{{ $image }}" alt="{{ $.Params.hero_alt | default $.Title }}" class="post_thumbnail">
+          {{ end }}
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}

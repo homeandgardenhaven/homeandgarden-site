@@ -1,14 +1,12 @@
-+++
-title = "About Home and Garden Haven"
-date = 2024-08-01T10:00:00+00:00
-tags = ["gardening", "about", "sustainability", "organic"]
-categories = ["About"]
-image = "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxnYXJkZW4lMjBiZWF1dGlmdWwlMjBmbG93ZXJzJTIwcGF0aHxlbnwwfDB8fHwxNzU0MTY1ODM3fDA&ixlib=rb-4.1.0&q=80&w=1200"
-+++
-
-![Beautiful garden path with flowers](https://images.unsplash.com/photo-1416879595882-3373a0480b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxnYXJkZW4lMjBiZWF1dGlmdWwlMjBmbG93ZXJzJTIwcGF0aHxlbnwwfDB8fHwxNzU0MTY1ODM3fDA&ixlib=rb-4.1.0&q=80&w=1200)
-
-<sub>Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/a-garden-with-lots-of-flowers-and-plants-1416879595882)</sub>
+---
+title: "About Home and Garden Haven"
+url: "/about/"
+date: 2024-08-01T10:00:00+00:00
+tags: ["gardening", "about", "sustainability", "organic"]
+categories: ["About"]
+hero: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxnYXJkZW4lMjBiZWF1dGlmdWwlMjBmbG93ZXJzJTIwcGF0aHxlbnwwfDB8fHwxNzU0MTY1ODM3fDA&ixlib=rb-4.1.0&q=80&w=1200"
+hero_alt: "Beautiful garden path with flowers"
+---
 
 <span class="emoji">🌱</span> Welcome to Home and Garden Haven, your comprehensive resource for all things gardening! Whether you're dreaming of your first tomato plant or planning an elaborate landscape, we're here to help you grow and thrive in the wonderful world of gardening.
 

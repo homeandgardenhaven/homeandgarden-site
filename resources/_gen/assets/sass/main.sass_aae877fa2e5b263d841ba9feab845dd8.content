@@ -1343,4 +1343,28 @@ pre {
   color: #666;
 }
 
+h1 {
+  color: #2d7a2d;
+  border-bottom: 2px solid #b7e4c7;
+  padding-bottom: 0.2em;
+}
+
+h2 {
+  color: #ff9800;
+}
+
+h3 {
+  color: #5e35b1;
+}
+
+h4, h5 {
+  color: #1976d2;
+}
+
+.emoji {
+  font-size: 1.2em;
+  vertical-align: middle;
+  margin: 0 0.1em;
+}
+
 /*# sourceMappingURL=styles.css.map */

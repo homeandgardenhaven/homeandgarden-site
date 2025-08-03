@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Home Garden Website'
+title = 'Home and Garden Haven'
 theme = 'newsroom'
 author = 'Garden Enthusiast'
 canonifyurls = true

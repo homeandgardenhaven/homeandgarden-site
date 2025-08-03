@@ -1,9 +1,14 @@
-+++
-title = "Companion Planting: Natural Garden Harmony"
-date = 2024-07-25T09:15:00+00:00
-tags = ["companion-planting", "organic-gardening", "garden-planning"]
-categories = ["Advanced Techniques"]
-+++
+---
+title: "Companion Planting: Natural Garden Harmony"
+description: "Discover the art of companion planting to improve your garden naturally. Learn proven plant combinations that boost growth, reduce pests, and maximize productivity."
+keywords: ["companion planting", "organic gardening", "garden planning", "natural pest control", "plant partnerships"]
+date: 2024-07-25T09:15:00+00:00
+slug: "companion-planting"
+tags: ["companion-planting", "organic-gardening", "garden-planning"]
+categories: ["Advanced Techniques"]
+hero: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxjb21wYW5pb24lMjBwbGFudGluZyUyMGdhcmRlbiUyMHZlZ2V0YWJsZXN8ZW58MHwwfHx8MTc1NDE2NTgzOHww&ixlib=rb-4.1.0&q=80&w=1200"
+hero_alt: "Vegetable garden showing companion planting with different crops growing together"
+---
 
 Companion planting is one of the oldest and most effective gardening techniques. By strategically placing plants together, you can improve growth, reduce pests, and maximize your garden's productivity naturally.
 

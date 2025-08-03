@@ -1,16 +1,19 @@
-+++
-title = "Indoor Herb Garden: Fresh Flavors Year-Round"
-date = 2024-07-20T14:30:00+00:00
-tags = ["herbs", "indoor-gardening", "cooking"]
-categories = ["Indoor Gardening"]
-image = "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxpbmRvb3IlMjBoZXJiJTIwZ2FyZGVuJTIwa2l0Y2hlbiUyMHdpbmRvd3NpbGx8ZW58MHwwfHx8MTc1NDE2NTgzN3ww&ixlib=rb-4.1.0&q=80&w=1080&w=1200"
-+++
-
-
-![Indoor herb garden on a kitchen windowsill](https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxpbmRvb3IlMjBoZXJiJTIwZ2FyZGVuJTIwa2l0Y2hlbiUyMHdpbmRvd3NpbGx8ZW58MHwwfHx8MTc1NDE2NTgzN3ww&ixlib=rb-4.1.0&q=80&w=1080&w=1200)
-
-<sub>Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com/photos/green-plants-on-white-ceramic-pots-on-window-sill-1511690743698)</sub>
-
+---
+title: "Creating Your Perfect Indoor Herb Garden"
+date: 2024-01-15T09:00:00-05:00
+draft: false
+description: "Learn how to grow fresh herbs indoors year-round with our comprehensive guide to indoor herb gardening, from choosing containers to harvesting."
+summary: "Discover the secrets to creating a thriving indoor herb garden that provides fresh flavors year-round. Complete guide with setup tips, plant care, and maintenance advice."
+tags: ["herbs", "indoor gardening", "containers", "beginners", "kitchen garden"]
+categories: ["Indoor Gardening", "Herbs"]
+author: "Home and Garden Haven"
+hero: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=M3w2NjY3fDB8MXxzZWFyY2h8N3x8aGVyYnMlMjBpbmRvb3J8ZW58MHx8fHwxNzI1MzEwNDQ0fDA&ixlib=rb-4.1.0&q=80&w=1200"
+hero_alt: "Fresh herbs growing in small pots on a bright windowsill"
+seo:
+  title: "Indoor Herb Garden Guide - Year-Round Fresh Herbs at Home"
+  description: "Complete guide to growing herbs indoors. Learn container selection, lighting needs, watering tips, and maintenance for a thriving indoor herb garden."
+  keywords: "indoor herb garden, growing herbs indoors, herb containers, kitchen herbs, year-round herbs, herb gardening tips"
+---
 
 <span class="emoji">🌿</span> There's nothing quite like the taste of fresh herbs in your cooking, and the good news is you can grow them indoors year-round—no matter the weather outside! An indoor herb garden is perfect for beginners and experienced gardeners alike, bringing flavor, fragrance, and greenery to your home.
 
@@ -23,7 +26,7 @@ image = "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?crop=entro
 - **Cost effective** – Save money on store-bought bunches.
 - **Air quality** – Many herbs help purify indoor air.
 
-For more on indoor gardening, see [Wikipedia: Indoor Gardening](https://en.wikipedia.org/wiki/Indoor_gardening).
+For more on indoor gardening, see [Wikipedia: Houseplant](https://en.wikipedia.org/wiki/Houseplant).
 
 ## <span class="emoji">🌱</span> Best Herbs for Indoor Growing
 
@@ -34,10 +37,6 @@ Start with these easy and rewarding options:
 - **Chives** – Tolerates lower light and regrows quickly.
 - **Parsley** – Both flat and curly types do well indoors.
 - **Mint** – Grows vigorously (keep it in its own pot).
-
-![Fresh basil herbs](https://images.unsplash.com/photo-1618375569909-3c8616cf167d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMGJhc2lsJTIwaGVyYnMlMjBjbG9zZSUyMHVwfGVufDB8MHx8fDE3NTQxNjY5Mjl8MA&ixlib=rb-4.1.0&q=80&w=600)
-
-<sub>Photo by [Sasha Kim](https://unsplash.com/@sashakiml) on [Unsplash](https://unsplash.com/photos/green-leaf-plant-in-close-up-photography-chmuqNK2R9I)</sub>
 
 ### Intermediate Options
 - **Oregano** – Mediterranean herb that loves sun.

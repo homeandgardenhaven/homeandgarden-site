@@ -4,8 +4,11 @@ description: "Expert tips for maintaining a lush, green lawn during the summer. 
 keywords: ["summer lawn care", "keep grass green in summer", "lawn watering tips", "summer fertilizer"]
 date: 2025-08-02
 slug: "summer-lawn-care"
-image: "https://images.unsplash.com/photo-1584291468470-a2c1a05c0bce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGxhd24lMjBzcHJpbmtsZXIlMjBzdW1tZXJ8ZW58MHwwfHx8MTc1NDE2NTgzNHww&ixlib=rb-4.1.0&q=80&w=1080&w=1200"
+hero: "https://images.unsplash.com/photo-1584291468470-a2c1a05c0bce?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGxhd24lMjBzcHJpbmtsZXIlMjBzdW1tZXJ8ZW58MHwwfHx8MTc1NDE2NTgzNHww&ixlib=rb-4.1.0&q=80&w=1200"
+hero_alt: "Green lawn with sprinkler system watering during summer"
 ---
+
+A beautiful lawn is possible even in the heat of summer. Here's how to keep your grass healthy:
 
 
 ![Green lawn with sprinkler in summer sun](https://images.unsplash.com/photo-1584291468470-a2c1a05c0bce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHxncmVlbiUyMGxhd24lMjBzcHJpbmtsZXIlMjBzdW1tZXJ8ZW58MHwwfHx8MTc1NDE2NTgzNHww&ixlib=rb-4.1.0&q=80&w=1080&w=1200)

@@ -4,8 +4,11 @@ description: "Learn how to plan your summer vegetable garden for maximum harvest
 keywords: ["summer vegetable garden", "garden planning", "planting schedule", "best summer crops"]
 date: 2025-08-02
 slug: "summer-vegetable-garden-planning"
-image: "https://images.unsplash.com/photo-1661633254917-4103cff7e06b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHx2ZWdldGFibGUlMjBnYXJkZW4lMjByYWlzZWQlMjBiZWRzfGVufDB8MHx8fDE3NTQxNjU4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200"
+hero: "https://images.unsplash.com/photo-1661633254917-4103cff7e06b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=600&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHx2ZWdldGFibGUlMjBnYXJkZW4lMjByYWlzZWQlMjBiZWRzfGVufDB8MHx8fDE3NTQxNjU4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1200"
+hero_alt: "Summer vegetable garden with raised beds full of thriving crops"
 ---
+
+<span class="emoji">🌱</span> Planning your summer vegetable garden is the key to a bountiful harvest. Whether you're a beginner or a seasoned gardener, these tips will help you make the most of the warm months. A well-planned garden not only produces more food, but also saves water, reduces pests, and makes gardening more enjoyable.
 
 
 ![Raised vegetable beds with lush summer crops](https://images.unsplash.com/photo-1661633254917-4103cff7e06b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3ODY1NzN8MHwxfHNlYXJjaHwxfHx2ZWdldGFibGUlMjBnYXJkZW4lMjByYWlzZWQlMjBiZWRzfGVufDB8MHx8fDE3NTQxNjU4MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080&w=1200)

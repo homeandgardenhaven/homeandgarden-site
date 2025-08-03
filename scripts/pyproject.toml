@@ -1,7 +1,7 @@
 [project]
 name = "homeandgarden-images"
 version = "0.1.0"
-description = "Image management for Home Garden Website"
+description = "Image management for Home and Garden Haven"
 requires-python = ">=3.8"
 dependencies = [
     "requests>=2.28.0",
@@ -9,6 +9,7 @@ dependencies = [
     "pyyaml>=6.0",
     "keyring>=24.0.0",
     "pylance>=0.10.15",
+    "bs4>=0.0.2",
 ]
 
 [build-system]
