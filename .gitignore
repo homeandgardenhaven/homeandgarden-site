@@ -1,5 +1,6 @@
 # Hugo development
 public/
+public-local/
 resources/
 .hugo_build.lock
 
